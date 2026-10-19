@@ -12,7 +12,10 @@
 <br/>
 
 <h3 align="center">I build systems that see clearly, survive attacks, and stay online.</h3>
+
 <p align="center"><sub>我做的系统：看得清 · 扛得住 · 跑得稳</sub></p>
+
+<p align="center"><sub>01 Focus&nbsp;&nbsp;·&nbsp;&nbsp;02 Toolbox&nbsp;&nbsp;·&nbsp;&nbsp;03 Principles&nbsp;&nbsp;·&nbsp;&nbsp;04 Activity&nbsp;&nbsp;·&nbsp;&nbsp;05 Connect</sub></p>
 
 ---
 
@@ -26,7 +29,7 @@
       <b>COMPUTER VISION</b><br/>
       <sub>机器视觉</sub>
       <br/><br/>
-      Detection, tracking and measurement pipelines — from camera to decision, with a latency budget you can actually defend.
+      Detection, tracking and measurement pipelines — from camera to decision, on a latency budget you can defend.
       <br/><br/>
       <sub>从相机到决策的检测、跟踪与量测管线，延迟可控。</sub>
     </td>
@@ -36,7 +39,7 @@
       <b>CYBERSECURITY</b><br/>
       <sub>网络安全</sub>
       <br/><br/>
-      Offensive tooling and defensive hardening — the same system, studied from both sides until it holds.
+      Offensive tooling and defensive hardening — one system, studied from both sides until it holds.
       <br/><br/>
       <sub>攻击面分析与加固，从两侧审视同一个系统。</sub>
     </td>
@@ -46,9 +49,9 @@
       <b>DEVOPS</b><br/>
       <sub>运维</sub>
       <br/><br/>
-      Containerized delivery, CI/CD and observability. The goal is boring infrastructure that nobody has to think about.
+      Containerized delivery, CI/CD and observability — infrastructure boring enough to forget.
       <br/><br/>
-      <sub>容器化交付、CI/CD 与可观测性，目标是“无聊”的基础设施。</sub>
+      <sub>容器化交付、CI/CD 与可观测性，无聊到可以忽略的基础设施。</sub>
     </td>
   </tr>
 </table>
@@ -111,6 +114,7 @@ The third manual run is a bug in the process, not a task on the list.
 
 <div align="center">
   <a href="https://github.com/Wjd0011"><img src="https://img.shields.io/badge/GitHub-Wjd0011-161B22?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub" /></a>
+  <a href="https://github.com/Wjd0011/Wjd0011"><img src="https://img.shields.io/badge/SOURCE-This_page-161B22?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Profile source" /></a>
 </div>
 
 <p align="center"><sub>Open to collaboration on vision, security and infrastructure. · 欢迎在视觉、安全与基础设施方向交流合作。</sub></p>
