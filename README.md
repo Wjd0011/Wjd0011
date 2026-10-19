@@ -25,9 +25,13 @@
 Detection, tracking and measurement pipelines — from camera to decision, on a latency budget you can defend.<br/>
 <sub>从相机到决策的检测、跟踪与量测管线，延迟可控。</sub>
 
+<img src="assets/rule.svg" width="100%" alt="" />
+
 <img src="assets/icons/security.svg" width="18" alt="" />&nbsp;**CYBERSECURITY** · <sub>网络安全</sub><br/>
 Offensive tooling and defensive hardening — one system, studied from both sides until it holds.<br/>
 <sub>攻击面分析与加固，从两侧审视同一个系统。</sub>
+
+<img src="assets/rule.svg" width="100%" alt="" />
 
 <img src="assets/icons/ops.svg" width="18" alt="" />&nbsp;**DEVOPS** · <sub>运维</sub><br/>
 Containerized delivery, CI/CD and observability — infrastructure boring enough to forget.<br/>
