@@ -102,13 +102,10 @@ The third manual run is a bug in the process, not a task on the list.
 ## 04 — Activity <sub>活跃度</sub>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wjd0011&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=22D3EE&icon_color=A78BFA&text_color=9AA7B8&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Wjd0011&hide_border=true&background=0B0F1A&stroke=1B2740&ring=A78BFA&fire=22D3EE&currStreakNum=E6EDF3&currStreakLabel=22D3EE&sideNums=E6EDF3&sideLabels=9AA7B8&dates=5B6B80" alt="Contribution streak" />
 </div>
 
+<p align="center"><sub>Live from GitHub · 数据实时同步</sub></p>
 ## 05 — Connect <sub>联系</sub>
 
 <div align="center">
