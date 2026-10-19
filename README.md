@@ -15,46 +15,23 @@
 
 <p align="center"><sub>我做的系统：看得清 · 扛得住 · 跑得稳</sub></p>
 
-<p align="center"><sub>01 Focus&nbsp;&nbsp;·&nbsp;&nbsp;02 Toolbox&nbsp;&nbsp;·&nbsp;&nbsp;03 Principles&nbsp;&nbsp;·&nbsp;&nbsp;04 Activity&nbsp;&nbsp;·&nbsp;&nbsp;05 Connect</sub></p>
+<p align="center"><sub>01 Focus · 02 Toolbox · 03 Principles · 04 Activity · 05 Connect</sub></p>
 
 ---
 
 ## 01 — What I do <sub>我做什么</sub>
 
-<table>
-  <tr>
-    <td width="34%" valign="top">
-      <img src="assets/icons/vision.svg" width="26" alt="" />
-      <br/><br/>
-      <b>COMPUTER VISION</b><br/>
-      <sub>机器视觉</sub>
-      <br/><br/>
-      Detection, tracking and measurement pipelines — from camera to decision, on a latency budget you can defend.
-      <br/><br/>
-      <sub>从相机到决策的检测、跟踪与量测管线，延迟可控。</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="assets/icons/security.svg" width="26" alt="" />
-      <br/><br/>
-      <b>CYBERSECURITY</b><br/>
-      <sub>网络安全</sub>
-      <br/><br/>
-      Offensive tooling and defensive hardening — one system, studied from both sides until it holds.
-      <br/><br/>
-      <sub>攻击面分析与加固，从两侧审视同一个系统。</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="assets/icons/ops.svg" width="26" alt="" />
-      <br/><br/>
-      <b>DEVOPS</b><br/>
-      <sub>运维</sub>
-      <br/><br/>
-      Containerized delivery, CI/CD and observability — infrastructure boring enough to forget.
-      <br/><br/>
-      <sub>容器化交付、CI/CD 与可观测性，无聊到可以忽略的基础设施。</sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/icons/vision.svg" width="18" alt="" />&nbsp;**COMPUTER VISION** · <sub>机器视觉</sub><br/>
+Detection, tracking and measurement pipelines — from camera to decision, on a latency budget you can defend.<br/>
+<sub>从相机到决策的检测、跟踪与量测管线，延迟可控。</sub>
+
+<img src="assets/icons/security.svg" width="18" alt="" />&nbsp;**CYBERSECURITY** · <sub>网络安全</sub><br/>
+Offensive tooling and defensive hardening — one system, studied from both sides until it holds.<br/>
+<sub>攻击面分析与加固，从两侧审视同一个系统。</sub>
+
+<img src="assets/icons/ops.svg" width="18" alt="" />&nbsp;**DEVOPS** · <sub>运维</sub><br/>
+Containerized delivery, CI/CD and observability — infrastructure boring enough to forget.<br/>
+<sub>容器化交付、CI/CD 与可观测性，无聊到可以忽略的基础设施。</sub>
 
 ## 02 — Toolbox <sub>工具链</sub>
 
