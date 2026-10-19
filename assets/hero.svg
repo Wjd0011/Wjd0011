@@ -92,38 +92,36 @@
   <rect x="816" y="124" width="368" height="1" fill="#18223A"/>
 
   <!-- row 1 -->
-  <g transform="translate(816 146)" fill="none" stroke="#67E8F9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(816 148)" fill="none" stroke="#67E8F9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
     <path d="M2 10c0 0 4-6.4 10.5-6.4S23 10 23 10s-4 6.4-10.5 6.4S2 10 2 10Z"/>
     <circle cx="12.5" cy="10" r="3.1"/>
   </g>
-  <text x="856" y="150" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="13" letter-spacing="2.6" fill="#E4EDF7">COMPUTER VISION</text>
-  <text x="1186" y="150" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="12" fill="#73849B">机器视觉</text>
-  <text x="856" y="167" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="11" letter-spacing="0.6" fill="#52627A">检测 · 跟踪 · 边缘推理</text>
+  <text x="856" y="152" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="2.8" fill="#E9F2FB">COMPUTER VISION</text>
+  <text x="856" y="171" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="12" letter-spacing="0.8" fill="#5F718B">机器视觉 · 检测 / 跟踪 / 边缘推理</text>
+  <rect x="816" y="186" width="368" height="1" fill="#141E33"/>
 
   <!-- row 2 -->
-  <g transform="translate(816 202)" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(816 204)" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
     <path d="M12.5 1.6l9 3.6v6.4c0 5.6-3.8 9.2-9 10.6-5.2-1.4-9-5-9-10.6V5.2l9-3.6Z"/>
     <path d="M8.6 12l2.7 2.7 4.9-5.1"/>
   </g>
-  <text x="856" y="206" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="13" letter-spacing="2.6" fill="#E4EDF7">CYBERSECURITY</text>
-  <text x="1186" y="206" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="12" fill="#73849B">网络安全</text>
-  <text x="856" y="223" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="11" letter-spacing="0.6" fill="#52627A">攻防 · 加固 · 应急响应</text>
+  <text x="856" y="208" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="2.8" fill="#E9F2FB">CYBERSECURITY</text>
+  <text x="856" y="227" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="12" letter-spacing="0.8" fill="#5F718B">网络安全 · 攻防 / 加固 / 应急响应</text>
+  <rect x="816" y="242" width="368" height="1" fill="#141E33"/>
 
   <!-- row 3 -->
-  <g transform="translate(816 258)" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(816 260)" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
     <rect x="1.6" y="2.6" width="21.8" height="17.4" rx="2.6"/>
     <path d="M6 8.6l3 2.8-3 2.8"/>
     <path d="M12.4 14.4h4.8"/>
   </g>
-  <text x="856" y="262" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="13" letter-spacing="2.6" fill="#E4EDF7">DEVOPS</text>
-  <text x="1186" y="262" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="12" fill="#73849B">运维</text>
-  <text x="856" y="279" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="11" letter-spacing="0.6" fill="#52627A">容器化 · CI/CD · 可观测性</text>
+  <text x="856" y="264" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="2.8" fill="#E9F2FB">DEVOPS</text>
+  <text x="856" y="283" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="12" letter-spacing="0.8" fill="#5F718B">运维 · 容器化 / CI-CD / 可观测性</text>
 
   <!-- footer pill -->
-  <g transform="translate(816 300)">
+  <g transform="translate(816 304)">
     <rect x="0" y="0" width="182" height="26" rx="13" fill="#0D1526" stroke="#1F2C42"/>
     <circle cx="15" cy="13" r="3" fill="#34D399"/>
     <text x="28" y="17" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="9.5" letter-spacing="2.4" fill="#7C8FA6">OPEN TO BUILD</text>
   </g>
-  <text x="1186" y="318" text-anchor="end" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="9" letter-spacing="2.2" fill="#38465A">CN / EN</text>
 </svg>
