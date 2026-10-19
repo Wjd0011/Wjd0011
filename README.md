@@ -15,7 +15,7 @@
 
 <p align="center"><sub>我做的系统：看得清 · 扛得住 · 跑得稳</sub></p>
 
-<p align="center"><sub>01 Focus · 02 Toolbox · 03 Principles · 04 Activity · 05 Featured · 06 Connect</sub></p>
+<p align="center"><sub>01 Focus · 02 Toolbox · 03 Principles · 04 Activity · 05 Connect</sub></p>
 
 ---
 
@@ -91,24 +91,7 @@ The third manual run is a bug in the process, not a task on the list.
 
 <p align="center"><sub>Live from GitHub · 数据实时同步</sub></p>
 
-## 05 — Featured <sub>精选项目</sub>
-
-<div align="center">
-  <a href="https://wjd0011.github.io/skyline-runner/">
-    <img src="https://raw.githubusercontent.com/Wjd0011/skyline-runner/main/docs/preview.png" alt="SKYLINE RUNNER — a neon procedural platformer" width="92%" />
-  </a>
-</div>
-
-<p align="center"><b>SKYLINE RUNNER · 天际行者</b></p>
-
-<p align="center"><sub>程序化生成天际线的霓虹跑酷：建筑由种子生成，巡逻怪与无人机全程拦截。零依赖，浏览器即开即玩。</sub></p>
-
-<div align="center">
-  <a href="https://wjd0011.github.io/skyline-runner/"><img src="https://img.shields.io/badge/PLAY-now-161B22?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Play the game" /></a>
-  <a href="https://github.com/Wjd0011/skyline-runner"><img src="https://img.shields.io/badge/SOURCE-skyline--runner-161B22?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Source code" /></a>
-</div>
-
-## 06 — Connect <sub>联系</sub>
+## 05 — Connect <sub>联系</sub>
 
 <div align="center">
   <a href="https://github.com/Wjd0011"><img src="https://img.shields.io/badge/GitHub-Wjd0011-161B22?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub" /></a>
