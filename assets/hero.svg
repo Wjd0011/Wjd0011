@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="WJD0011 — Computer Vision, Cybersecurity, DevOps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060911"/>
+      <stop offset="0.55" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#0C0A18"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0.1" cy="0.05" r="0.6">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.95" cy="1" r="0.55">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F2FAFF"/>
+      <stop offset="0.45" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7DD3FC" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="gridFade" cx="0.35" cy="0.4" r="0.85">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="0.65" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask">
+      <rect width="1280" height="420" fill="url(#gridFade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)" mask="url(#gridMask)"/>
+  <rect width="1280" height="420" fill="url(#glowCyan)"/>
+  <rect width="1280" height="420" fill="url(#glowViolet)"/>
+
+  <!-- corner brackets -->
+  <g stroke="#22D3EE" stroke-opacity="0.26" stroke-width="1.4" fill="none">
+    <path d="M28 60V28h32"/>
+    <path d="M1220 28h32v32"/>
+    <path d="M1252 360v32h-32"/>
+    <path d="M60 392H28v-32"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="72" y="86" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="12.5" letter-spacing="4.2" fill="#38BDF8" fill-opacity="0.95">// ENGINEERING PROFILE</text>
+
+  <!-- name -->
+  <text x="72" y="198" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-2" fill="url(#nameGrad)">WJD0011</text>
+
+  <!-- english tagline -->
+  <text x="74" y="246" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="0.4" fill="#CBD8E6">Computer Vision · Cybersecurity · DevOps</text>
+
+  <!-- chinese tagline -->
+  <text x="75" y="280" font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', sans-serif" font-size="17.5" letter-spacing="1.2" fill="#7B8AA0">机器视觉 · 网络安全 · 运维</text>
+
+  <!-- divider -->
+  <rect x="72" y="322" width="520" height="1" fill="url(#rule)"/>
+
+  <!-- footer line -->
+  <text x="72" y="366" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="12.5" letter-spacing="0.6" fill="#5B6B80">github.com/Wjd0011</text>
+  <text x="72" y="390" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="11.5" letter-spacing="3.2" fill="#3E4C60">SEE · DEFEND · RUN</text>
+
+  <!-- right discipline rail -->
+  <rect x="806" y="104" width="1" height="240" fill="#1B2740"/>
+
+  <!-- row 1: vision -->
+  <g transform="translate(846 128)" fill="none" stroke="#67E8F9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 11c0 0 4.2-7 11-7s11 7 11 7-4.2 7-11 7S2 11 2 11Z"/>
+    <circle cx="13" cy="11" r="3.4"/>
+  </g>
+  <text x="892" y="128" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="3" fill="#DCE7F3">COMPUTER VISION</text>
+  <text x="892" y="152" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="13" letter-spacing="0.8" fill="#6C7C92">机器视觉 · 检测 / 跟踪 / 边缘推理</text>
+  <rect x="892" y="172" width="314" height="1" fill="#182235"/>
+
+  <!-- row 2: security -->
+  <g transform="translate(846 200)" fill="none" stroke="#A78BFA" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 2l9 3.4v6.2c0 5.6-3.9 9.2-9 10.4-5.1-1.2-9-4.8-9-10.4V5.4L13 2Z"/>
+    <path d="M9 12.2l2.8 2.8 5-5.4"/>
+  </g>
+  <text x="892" y="200" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="3" fill="#DCE7F3">CYBERSECURITY</text>
+  <text x="892" y="224" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="13" letter-spacing="0.8" fill="#6C7C92">网络安全 · 攻防 / 加固 / 应急响应</text>
+  <rect x="892" y="244" width="314" height="1" fill="#182235"/>
+
+  <!-- row 3: devops -->
+  <g transform="translate(846 272)" fill="none" stroke="#38BDF8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="3" width="22" height="18" rx="2.5"/>
+    <path d="M6.5 9.5l3.2 3-3.2 3"/>
+    <path d="M13 15.5h5.5"/>
+  </g>
+  <text x="892" y="272" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="14" letter-spacing="3" fill="#DCE7F3">DEVOPS</text>
+  <text x="892" y="296" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="13" letter-spacing="0.8" fill="#6C7C92">运维 · 容器化 / CI/CD / 可观测性</text>
+
+  <!-- status pill -->
+  <g transform="translate(846 330)">
+    <rect x="0" y="0" width="190" height="26" rx="13" fill="#0F1729" stroke="#1E2A3F"/>
+    <circle cx="16" cy="13" r="6.5" fill="#34D399" fill-opacity="0.16"/>
+    <circle cx="16" cy="13" r="3.2" fill="#34D399"/>
+    <text x="30" y="17.5" font-family="Consolas, 'JetBrains Mono', 'Courier New', monospace" font-size="10.5" letter-spacing="2.2" fill="#7C8EA4">OPEN TO BUILD</text>
+  </g>
+</svg>
